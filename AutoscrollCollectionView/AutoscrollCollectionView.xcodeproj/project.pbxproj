@@ -14,6 +14,7 @@
 		8E0ED48524971F1E008A18B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E0ED48324971F1E008A18B1 /* LaunchScreen.storyboard */; };
 		8E0ED48D2497225A008A18B1 /* InfinityCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0ED48C2497225A008A18B1 /* InfinityCollectionView.swift */; };
 		8E0ED48F2497506D008A18B1 /* DishesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0ED48E2497506D008A18B1 /* DishesCell.swift */; };
+		8ED772D824989D3900265C0F /* DeviceInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED772D724989D3900265C0F /* DeviceInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8E0ED48624971F1E008A18B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8E0ED48C2497225A008A18B1 /* InfinityCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfinityCollectionView.swift; sourceTree = "<group>"; };
 		8E0ED48E2497506D008A18B1 /* DishesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishesCell.swift; sourceTree = "<group>"; };
+		8ED772D724989D3900265C0F /* DeviceInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8E0ED48324971F1E008A18B1 /* LaunchScreen.storyboard */,
 				8E0ED48624971F1E008A18B1 /* Info.plist */,
 				8E0ED48C2497225A008A18B1 /* InfinityCollectionView.swift */,
+				8ED772D724989D3900265C0F /* DeviceInfo.swift */,
 			);
 			path = AutoscrollCollectionView;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				8E0ED48D2497225A008A18B1 /* InfinityCollectionView.swift in Sources */,
 				8E0ED47924971F1C008A18B1 /* AppDelegate.swift in Sources */,
 				8E0ED48F2497506D008A18B1 /* DishesCell.swift in Sources */,
+				8ED772D824989D3900265C0F /* DeviceInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

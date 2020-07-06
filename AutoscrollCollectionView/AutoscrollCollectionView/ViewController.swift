@@ -20,7 +20,7 @@ final class ViewController: UIViewController {
     @IBOutlet private weak var dishesCollectionView: InfinityCollectionView!
     
     private var bannerItems: [String] = []
-    private var autoScrollSpeed: CGFloat! // mm/s
+    private var autoScrollSpeed: CGFloat!
     private var timerInterval: CGFloat!
     private var movePointAmountForTimerInterval: CGFloat!
     private var timer = Timer()
